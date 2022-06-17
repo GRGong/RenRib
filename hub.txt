@@ -1,0 +1,5 @@
+hub zv9_ribo
+shortLabel zv9_ribo
+longLabel zv9_ribo
+genomesFile genomes.txt
+email two216@qq.com

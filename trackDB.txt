@@ -1,0 +1,212 @@
+track zv9_ribo
+compositeTrack on
+configurable on
+shortLabel zv9_ribo
+longLabel zv9_ribo
+dragAndDrop subTracksq
+type bigWig 0 100
+autoScale off
+viewLimits 0:100
+configurable on
+visibility full
+maxHeightPixels 64:64:11
+showSubtrackColorOnUi on 
+
+track GSM854422_Input_Dicer_2_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854422_Input_Dicer_2_A.bw
+shortLabel GSM854422_Input_Dicer_2_A
+longLabel GSM854422_Input_Dicer_2_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854423_Input_Dicer_4_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854423_Input_Dicer_4_A.bw
+shortLabel GSM854423_Input_Dicer_4_A
+longLabel GSM854423_Input_Dicer_4_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854424_Input_Dicer_4_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854424_Input_Dicer_4_B.bw
+shortLabel GSM854424_Input_Dicer_4_B
+longLabel GSM854424_Input_Dicer_4_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854425_Input_Dicer_6_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854425_Input_Dicer_6_A.bw
+shortLabel GSM854425_Input_Dicer_6_A
+longLabel GSM854425_Input_Dicer_6_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854426_Input_Wt_2_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854426_Input_Wt_2_A.bw
+shortLabel GSM854426_Input_Wt_2_A
+longLabel GSM854426_Input_Wt_2_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854427_Input_Wt_2_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854427_Input_Wt_2_B.bw
+shortLabel GSM854427_Input_Wt_2_B
+longLabel GSM854427_Input_Wt_2_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854428_Input_Wt_4_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854428_Input_Wt_4_A.bw
+shortLabel GSM854428_Input_Wt_4_A
+longLabel GSM854428_Input_Wt_4_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854429_Input_Wt_4_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854429_Input_Wt_4_B.bw
+shortLabel GSM854429_Input_Wt_4_B
+longLabel GSM854429_Input_Wt_4_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854430_Input_Wt_6_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854430_Input_Wt_6_A.bw
+shortLabel GSM854430_Input_Wt_6_A
+longLabel GSM854430_Input_Wt_6_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854431_Input_Wt_6_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854431_Input_Wt_6_B.bw
+shortLabel GSM854431_Input_Wt_6_B
+longLabel GSM854431_Input_Wt_6_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854432_Ribo_Dicer_2_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854432_Ribo_Dicer_2_A.bw
+shortLabel GSM854432_Ribo_Dicer_2_A
+longLabel GSM854432_Ribo_Dicer_2_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854433_Ribo_Dicer_2_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854433_Ribo_Dicer_2_B.bw
+shortLabel GSM854433_Ribo_Dicer_2_B
+longLabel GSM854433_Ribo_Dicer_2_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854434_Ribo_Dicer_4_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854434_Ribo_Dicer_4_A.bw
+shortLabel GSM854434_Ribo_Dicer_4_A
+longLabel GSM854434_Ribo_Dicer_4_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854435_Ribo_Dicer_4_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854435_Ribo_Dicer_4_B.bw
+shortLabel GSM854435_Ribo_Dicer_4_B
+longLabel GSM854435_Ribo_Dicer_4_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854436_Ribo_Dicer_6_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854436_Ribo_Dicer_6_A.bw
+shortLabel GSM854436_Ribo_Dicer_6_A
+longLabel GSM854436_Ribo_Dicer_6_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854437_Ribo_Dicer_6_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854437_Ribo_Dicer_6_B.bw
+shortLabel GSM854437_Ribo_Dicer_6_B
+longLabel GSM854437_Ribo_Dicer_6_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854438_Ribo_Wt_2_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854438_Ribo_Wt_2_A.bw
+shortLabel GSM854438_Ribo_Wt_2_A
+longLabel GSM854438_Ribo_Wt_2_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854439_Ribo_Wt_2_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854439_Ribo_Wt_2_B.bw
+shortLabel GSM854439_Ribo_Wt_2_B
+longLabel GSM854439_Ribo_Wt_2_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854440_Ribo_Wt_4_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854440_Ribo_Wt_4_A.bw
+shortLabel GSM854440_Ribo_Wt_4_A
+longLabel GSM854440_Ribo_Wt_4_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854441_Ribo_Wt_4_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854441_Ribo_Wt_4_B.bw
+shortLabel GSM854441_Ribo_Wt_4_B
+longLabel GSM854441_Ribo_Wt_4_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854442_Ribo_Wt_6_A
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854442_Ribo_Wt_6_A.bw
+shortLabel GSM854442_Ribo_Wt_6_A
+longLabel GSM854442_Ribo_Wt_6_A
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
+track GSM854443_Ribo_Wt_6_B
+bigDataUrl https://github.com/GRGong/RenRib/raw/main/GSM854443_Ribo_Wt_6_B.bw
+shortLabel GSM854443_Ribo_Wt_6_B
+longLabel GSM854443_Ribo_Wt_6_B
+type bigWig
+autoScale on
+color 153, 51, 51
+parent zv9_ribo
+
