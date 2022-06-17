@@ -1,2 +1,2 @@
-genome danRer9
+genome danRer7
 trackDb trackDB.txt
